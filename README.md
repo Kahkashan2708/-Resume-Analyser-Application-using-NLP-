@@ -1,2 +1,2 @@
-# Resume-Analyser-Application-using-NLP
+# Resume Analyser Application
 Creating a resume analyser application using python and NLP
