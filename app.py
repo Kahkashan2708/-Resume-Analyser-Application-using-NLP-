@@ -77,10 +77,9 @@ def main():
             input_features = tfidf.transform([cleaned_resume])
             prediction_id = clf.predict(input_features)[0]
             category_name = category_mapping.get(prediction_id, " UNKNOWN")
-
-            st.success(f" **Predicted Category:** {category_name}")
-
             
+
+
 # Run the app
 if __name__ == "__main__":
     main()
