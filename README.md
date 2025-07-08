@@ -63,7 +63,7 @@ Upload resumes in:
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 Once a resume is uploaded, the app displays:
 ```
@@ -77,13 +77,6 @@ Other possible categories:
 - SAP Developer
 -  Python Developer
 - ...and more!
-
----
-
-##  Contributing
-
-Contributions, issues and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/resume-screening-app/issues).
 
 ---
 
