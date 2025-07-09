@@ -1,4 +1,4 @@
-# 📄 Resume Screening App
+#  **Resume Screening App**
 
 A Streamlit-based web application that classifies uploaded resumes into appropriate job categories using Natural Language Processing (NLP) and a machine learning classifier.
 
@@ -27,7 +27,7 @@ A Streamlit-based web application that classifies uploaded resumes into appropri
 
 ```
 ├── app.py                  # Main Streamlit app
-├── clf_compressed.pkl                 # Trained ML classifier
+├── clf_compressed.pkl      # Trained ML classifier
 ├── tfidf.pkl               # TF-IDF vectorizer
 ├── Resume_Screening.ipynb  # Notebook
 └── README.md               # Project documentation
@@ -83,7 +83,7 @@ Other possible categories:
 ##  Contact
 
 **Kahkashan Manzoor**  
-[Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [GitHub](https://github.com/Kahkashan2708) • [Kaggle](https://www.kaggle.com/kashishmanzoor)
+[Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [Kaggle](https://www.kaggle.com/kashishmanzoor)
 
 ---
 
